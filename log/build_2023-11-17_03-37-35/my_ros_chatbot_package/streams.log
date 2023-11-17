@@ -1,0 +1,33 @@
+[0.052s] Invoking command in '/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com _=/usr/bin/env /usr/bin/cmake /home/hegel/Documents/GitHub/mod8-pon3 -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package
+[1.578s] -- The C compiler identification is GNU 11.4.0
+[2.424s] -- The CXX compiler identification is GNU 11.4.0
+[2.444s] -- Detecting C compiler ABI info
+[2.579s] -- Detecting C compiler ABI info - done
+[2.582s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.586s] -- Detecting C compile features
+[2.598s] -- Detecting C compile features - done
+[2.606s] -- Detecting CXX compiler ABI info
+[2.691s] -- Detecting CXX compiler ABI info - done
+[2.697s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.698s] -- Detecting CXX compile features
+[2.698s] -- Detecting CXX compile features - done
+[2.711s] [31mCMake Error at CMakeLists.txt:4 (find_package):
+[2.711s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[2.711s]   asked CMake to find a package configuration file provided by "catkin", but
+[2.711s]   CMake did not find one.
+[2.711s] 
+[2.711s]   Could not find a package configuration file provided by "catkin" with any
+[2.712s]   of the following names:
+[2.712s] 
+[2.712s]     catkinConfig.cmake
+[2.712s]     catkin-config.cmake
+[2.712s] 
+[2.712s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[2.712s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[2.712s]   provides a separate development package or SDK, be sure it has been
+[2.712s]   installed.
+[2.712s] 
+[2.712s] [0m
+[2.712s] -- Configuring incomplete, errors occurred!
+[2.712s] See also "/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/CMakeFiles/CMakeOutput.log".
+[2.714s] Invoked command in '/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com _=/usr/bin/env /usr/bin/cmake /home/hegel/Documents/GitHub/mod8-pon3 -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package

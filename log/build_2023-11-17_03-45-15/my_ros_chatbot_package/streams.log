@@ -1,0 +1,52 @@
+[0.064s] Invoking command in '/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com _=/usr/bin/env /usr/bin/cmake /home/hegel/Documents/GitHub/mod8-pon3 -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package
+[0.098s] -- The C compiler identification is GNU 11.4.0
+[0.135s] -- The CXX compiler identification is GNU 11.4.0
+[0.140s] -- Detecting C compiler ABI info
+[0.183s] -- Detecting C compiler ABI info - done
+[0.188s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.188s] -- Detecting C compile features
+[0.189s] -- Detecting C compile features - done
+[0.191s] -- Detecting CXX compiler ABI info
+[0.242s] -- Detecting CXX compiler ABI info - done
+[0.247s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.247s] -- Detecting CXX compile features
+[0.248s] -- Detecting CXX compile features - done
+[0.249s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.364s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.423s] -- Found rclpy: 3.3.10 (/opt/ros/humble/share/rclpy/cmake)
+[0.424s] -- Found std_msgs: 4.2.3 (/opt/ros/humble/share/std_msgs/cmake)
+[0.450s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.454s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.460s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.470s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.484s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.571s] -- Configuring done
+[0.573s] -- Generating done
+[0.573s] [33mCMake Warning:
+[0.573s]   Manually-specified variables were not used by the project:
+[0.573s] 
+[0.573s]     CATKIN_INSTALL_INTO_PREFIX_ROOT
+[0.574s] 
+[0.574s] [0m
+[0.574s] -- Build files have been written to: /home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package
+[0.578s] Invoked command in '/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com _=/usr/bin/env /usr/bin/cmake /home/hegel/Documents/GitHub/mod8-pon3 -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package
+[0.579s] Invoking command in '/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com _=/usr/bin/env /usr/bin/cmake --build /home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package -- -j12 -l12
+[0.602s] Invoked command in '/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com _=/usr/bin/env /usr/bin/cmake --build /home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package -- -j12 -l12
+[0.641s] Invoking command in '/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com _=/usr/bin/env /usr/bin/cmake --install /home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package
+[0.646s] -- Install configuration: ""
+[0.646s] -- Installing: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/ament_index/resource_index/package_run_dependencies/my_ros_chatbot_package
+[0.646s] -- Installing: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/ament_index/resource_index/parent_prefix_path/my_ros_chatbot_package
+[0.646s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/environment/ament_prefix_path.sh
+[0.647s] -- Installing: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/environment/ament_prefix_path.dsv
+[0.647s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/environment/path.sh
+[0.647s] -- Installing: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/environment/path.dsv
+[0.647s] -- Installing: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/local_setup.bash
+[0.647s] -- Installing: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/local_setup.sh
+[0.647s] -- Installing: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/local_setup.zsh
+[0.647s] -- Installing: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/local_setup.dsv
+[0.647s] -- Installing: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/package.dsv
+[0.647s] -- Installing: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/ament_index/resource_index/packages/my_ros_chatbot_package
+[0.647s] -- Installing: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/cmake/my_ros_chatbot_packageConfig.cmake
+[0.647s] -- Installing: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/cmake/my_ros_chatbot_packageConfig-version.cmake
+[0.647s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/package.xml
+[0.648s] Invoked command in '/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com _=/usr/bin/env /usr/bin/cmake --install /home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package

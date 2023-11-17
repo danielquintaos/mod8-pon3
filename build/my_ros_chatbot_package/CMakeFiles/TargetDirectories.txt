@@ -1,0 +1,9 @@
+/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/CMakeFiles/uninstall.dir
+/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/CMakeFiles/my_ros_chatbot_package_uninstall.dir
+/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/CMakeFiles/test.dir
+/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/CMakeFiles/edit_cache.dir
+/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/CMakeFiles/rebuild_cache.dir
+/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/CMakeFiles/list_install_components.dir
+/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/CMakeFiles/install.dir
+/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/CMakeFiles/install/local.dir
+/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/CMakeFiles/install/strip.dir

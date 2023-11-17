@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>my_ros_chatbot_package</name>
+  <version>0.0.1</version>
+  <description>A ROS 2 package for a service robot chatbot.</description>
+
+  <maintainer email="your_email@example.com">Your Name</maintainer>
+
+  <license>TODO: License declaration</license>
+
+  <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <export>
+    <!-- Other tools can go here -->
+  </export>
+</package>
+

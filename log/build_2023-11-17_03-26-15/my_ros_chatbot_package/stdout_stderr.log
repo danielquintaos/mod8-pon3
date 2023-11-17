@@ -1,0 +1,8 @@
+running egg_info
+creating build/my_ros_chatbot_package/my_ros_chatbot_package.egg-info
+writing build/my_ros_chatbot_package/my_ros_chatbot_package.egg-info/PKG-INFO
+writing dependency_links to build/my_ros_chatbot_package/my_ros_chatbot_package.egg-info/dependency_links.txt
+writing requirements to build/my_ros_chatbot_package/my_ros_chatbot_package.egg-info/requires.txt
+writing top-level names to build/my_ros_chatbot_package/my_ros_chatbot_package.egg-info/top_level.txt
+writing manifest file 'build/my_ros_chatbot_package/my_ros_chatbot_package.egg-info/SOURCES.txt'
+error: package directory 'my_ros_chatbot_package' does not exist

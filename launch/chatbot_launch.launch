@@ -1,0 +1,4 @@
+<launch>
+    <node name="chatbot_node" pkg="my_ros_chatbot_package" type="chatbot_node.py" output="screen" />
+</launch>
+

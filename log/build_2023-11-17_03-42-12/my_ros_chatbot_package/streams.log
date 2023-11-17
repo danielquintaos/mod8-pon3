@@ -1,0 +1,20 @@
+[0.074s] Invoking command in '/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com _=/usr/bin/env /usr/bin/cmake --build /home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package -- -j12 -l12
+[0.100s] Invoked command in '/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com _=/usr/bin/env /usr/bin/cmake --build /home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package -- -j12 -l12
+[0.147s] Invoking command in '/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com _=/usr/bin/env /usr/bin/cmake --install /home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package
+[0.153s] -- Install configuration: ""
+[0.153s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/ament_index/resource_index/package_run_dependencies/my_ros_chatbot_package
+[0.153s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/ament_index/resource_index/parent_prefix_path/my_ros_chatbot_package
+[0.154s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/environment/ament_prefix_path.sh
+[0.154s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/environment/ament_prefix_path.dsv
+[0.154s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/environment/path.sh
+[0.154s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/environment/path.dsv
+[0.154s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/local_setup.bash
+[0.154s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/local_setup.sh
+[0.154s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/local_setup.zsh
+[0.154s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/local_setup.dsv
+[0.154s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/package.dsv
+[0.154s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/ament_index/resource_index/packages/my_ros_chatbot_package
+[0.154s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/cmake/my_ros_chatbot_packageConfig.cmake
+[0.154s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/cmake/my_ros_chatbot_packageConfig-version.cmake
+[0.154s] -- Up-to-date: /home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/share/my_ros_chatbot_package/package.xml
+[0.155s] Invoked command in '/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com _=/usr/bin/env /usr/bin/cmake --install /home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package

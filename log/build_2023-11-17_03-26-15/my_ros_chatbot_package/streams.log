@@ -1,0 +1,10 @@
+[0.899s] Invoking command in '/home/hegel/Documents/GitHub/mod8-pon3': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/prefix_override:/home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base build/my_ros_chatbot_package build --build-base /home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/build install --record /home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/install.log --single-version-externally-managed
+[1.067s] running egg_info
+[1.067s] creating build/my_ros_chatbot_package/my_ros_chatbot_package.egg-info
+[1.067s] writing build/my_ros_chatbot_package/my_ros_chatbot_package.egg-info/PKG-INFO
+[1.067s] writing dependency_links to build/my_ros_chatbot_package/my_ros_chatbot_package.egg-info/dependency_links.txt
+[1.068s] writing requirements to build/my_ros_chatbot_package/my_ros_chatbot_package.egg-info/requires.txt
+[1.068s] writing top-level names to build/my_ros_chatbot_package/my_ros_chatbot_package.egg-info/top_level.txt
+[1.068s] writing manifest file 'build/my_ros_chatbot_package/my_ros_chatbot_package.egg-info/SOURCES.txt'
+[1.068s] error: package directory 'my_ros_chatbot_package' does not exist
+[1.081s] Invoked command in '/home/hegel/Documents/GitHub/mod8-pon3' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/prefix_override:/home/hegel/Documents/GitHub/mod8-pon3/install/my_ros_chatbot_package/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base build/my_ros_chatbot_package build --build-base /home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/build install --record /home/hegel/Documents/GitHub/mod8-pon3/build/my_ros_chatbot_package/install.log --single-version-externally-managed

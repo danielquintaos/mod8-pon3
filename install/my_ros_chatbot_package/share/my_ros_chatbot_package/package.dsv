@@ -1,0 +1,15 @@
+source;share/my_ros_chatbot_package/hook/cmake_prefix_path.ps1
+source;share/my_ros_chatbot_package/hook/cmake_prefix_path.dsv
+source;share/my_ros_chatbot_package/hook/cmake_prefix_path.sh
+source;share/my_ros_chatbot_package/hook/pythonpath.ps1
+source;share/my_ros_chatbot_package/hook/pythonpath.dsv
+source;share/my_ros_chatbot_package/hook/pythonpath.sh
+source;share/my_ros_chatbot_package/hook/ros_package_path.ps1
+source;share/my_ros_chatbot_package/hook/ros_package_path.dsv
+source;share/my_ros_chatbot_package/hook/ros_package_path.sh
+source;share/my_ros_chatbot_package/hook/pkg_config_path.ps1
+source;share/my_ros_chatbot_package/hook/pkg_config_path.dsv
+source;share/my_ros_chatbot_package/hook/pkg_config_path.sh
+source;share/my_ros_chatbot_package/hook/pkg_config_path_multiarch.ps1
+source;share/my_ros_chatbot_package/hook/pkg_config_path_multiarch.dsv
+source;share/my_ros_chatbot_package/hook/pkg_config_path_multiarch.sh
