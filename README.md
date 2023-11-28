@@ -31,3 +31,6 @@ roslaunch my_ros_chatbot_package chatbot_launch.launch
 - `scripts/`: Contém scripts Python executáveis, como o `chatbot_node.py`.
 - `launch/`: Arquivos de lançamento do ROS.
 - `config/`: Arquivos de configuração.
+
+## Demonstração
+Vídeo: https://youtu.be/fEJoqiFVDrw
